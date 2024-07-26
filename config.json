@@ -7,14 +7,14 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "EMAIL": "rinz135orugejehe@gmail.com",
+    "PASSWORD": "Rinzgalo.com",
+    "OTPKEY": "secret",
+    "BOTNAME": "EDUCBOTJK",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "61550955013646",
+        "100078063083482"
     ],
     "DATABASE": {
         "sqlite": {
